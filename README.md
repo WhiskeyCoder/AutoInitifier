@@ -5,7 +5,7 @@ _**Make every Python folder package-ready. Instantly. Cleanly. Reusably.**_
 
 ## 🔥 What is AutoInitifier?
 
-**AutoInitifier** is a recursive Python script that **automatically creates or updates** `__init__.py` files across your entire project — ensuring every subfolder is importable and **keeps your Python packages clean and modular.**
+**AutoInitifier** is a recursive Python script that **automatically creates or updates** `__init__.py` files across your entire project, ensuring every subfolder is importable and **keeps your Python packages clean and modular.**
 
 Whether you're working on a complex codebase with 50+ folders or just want to tidy up your project structure, AutoInitifier makes sure every folder plays nice with Python imports.
 
